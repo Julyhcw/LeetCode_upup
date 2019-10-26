@@ -17,9 +17,9 @@ leetcode上面刷的题时间久了就自动没了。。。真的是！
 | 28   | 实现strStr              | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/28E-实现strStr.py) |
 | 38   | 报数                    | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/38E-报数.py) |
 | 39   | 组合总和                | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/39M-组合总和.py) |
-| 40   | 组合总和 II             | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/40M-组合总和 II.py) |
+| 40   | 组合总和 II             | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/40M-组合总和%20II.py) |
 | 46   | 全排列                  | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/46M-全排列.py) |
-| 47   | 全排列 II               | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/47M-全排列 II.py) |
+| 47   | 全排列 II               | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/47M-全排列%20II.py) |
 | 53   | 最大子序和              | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/53E-最大子序和.py) |
 | 56   | 合并区间                | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/56M-合并区间.py) |
 | 67   | 二进制求和              | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/67E-二进制求和.py) |
@@ -27,7 +27,7 @@ leetcode上面刷的题时间久了就自动没了。。。真的是！
 | 78   | 子集                    | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/78M-子集.py) |
 | 88   | 合并两个有序数组        | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/88E-合并两个有序数组.py) |
 | 94   | 不同的二叉搜索树        | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/94M-不同的二叉搜索树.py) |
-| 95   | 不同的二叉搜索树 II     | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/95M-不同的二叉搜索树 II.py) |
+| 95   | 不同的二叉搜索树 II     | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/95M-不同的二叉搜索树%20II.py) |
 | 110  | 平衡二叉树              | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/110E-平衡二叉树.py) |
 | 123  | 买卖股票的最佳时机III   | Hard   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/123H-买卖股票的最佳时机III.py) |
 | 124  | 二叉树中的最大路径和    | Hard   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/124H-二叉树中的最大路径和.py) |
@@ -50,7 +50,7 @@ leetcode上面刷的题时间久了就自动没了。。。真的是！
 | 239  | 滑动窗口最大值          | hard   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/239H-滑动窗口最大值.py) |
 | 240  | 搜索二维矩阵II          | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/240M-搜索二维矩阵II.py) |
 | 260  | 只出现一次的数字        | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/260E-只出现一次的数字.py) |
-| 264  | 丑数 II                 | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/264M-丑数 II.py) |
+| 264  | 丑数 II                 | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/264M-丑数%20II.py) |
 | 279  | 完全平方数              | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/279M-完全平方数.py) |
 | 283  | 移动零                  | Easy   | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/283E-移动零.py) |
 | 289  | 生命游戏                | Middle | [Python](https://github.com/Julyhcw/LeetCode_upup/blob/master/leetcode/289M-生命游戏.py) |
